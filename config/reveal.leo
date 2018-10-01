@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -37,6 +37,9 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20181001100653.1" a="E"><vh>week4</vh>
+<v t="leo.20181001100653.2"><vh>課程內容</vh></v>
 </v>
 </v>
 </v>
@@ -247,7 +250,7 @@ make.start()
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
 2018 Fall 分組網際簡報
-&lt;/title&gt;
+&lt;/title&gt; 40623236 黃子峰
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
     
@@ -325,6 +328,27 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181001100653.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181001100653.2">##40623236 黃子峰 week4課程內容
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [黃子峰](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623236 黃子峰 網誌](./../blog/index.html)
+
+
 </t>
 </tnodes>
 </leo_file>
