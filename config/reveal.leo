@@ -38,7 +38,9 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181001100653.1"><vh>week4</vh></v>
+<v t="leo.20181001102853.1" a="E"><vh>week4</vh>
+<v t="leo.20181001102853.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -327,7 +329,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001100653.1">&lt;section data-markdown&gt;
+<t tx="leo.20181001102853.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -335,6 +337,18 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181001102853.2">## week4 課程內容
+
+####創建on shape 
+####修改BLOG
+####修改網誌
+####講解之後課程所需要的技能
+####英文對課程重要
+####onshape介面指令 介紹 
+
+
+
 </t>
 </tnodes>
 </leo_file>
