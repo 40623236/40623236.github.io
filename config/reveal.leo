@@ -44,7 +44,7 @@
 <v t="leo.20181008100647.1"><vh>week2</vh>
 <v t="leo.20181008100647.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181008100802.1" a="E"><vh>week3</vh>
+<v t="leo.20181008100802.1"><vh>week3</vh>
 <v t="leo.20181008100802.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181001102853.1"><vh>week4</vh>
@@ -52,6 +52,9 @@
 </v>
 <v t="leo.20181008095132.1"><vh>week5</vh>
 <v t="leo.20181008095132.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181015095241.1" a="E"><vh>week6</vh>
+<v t="leo.20181015095241.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -425,6 +428,23 @@ make.start()
 <t tx="leo.20181008100802.2">## week4 課程內容
 
 * 中秋放假
+
+
+
+</t>
+<t tx="leo.20181015095241.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015095241.2">## week5 課程內容
+
+* 更新blog網誌
+* 
 
 
 
